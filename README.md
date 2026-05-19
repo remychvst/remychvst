@@ -1,16 +1,62 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rémy</h1>
 
-<!--
-**remychvst/remychvst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>42 Paris Student</strong> • C Developer • UNIX & Algorithms
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About me
+
+I am currently studying at **42 Paris**, where I build projects in **C**, focusing on algorithms, memory management, UNIX systems and clean code.
+
+I am learning by building real projects, debugging deeply, and improving step by step.
+
+---
+
+## 🚀 42 Projects
+
+| Project | Description | Status |
+|---|---|---|
+| **libft** | Custom C library | ✅ Done |
+| **ft_printf** | Reimplementation of printf | ✅ Done |
+| **get_next_line** | Read a file line by line | ✅ Done |
+| **push_swap** | Sorting algorithm with stacks | 🔄 In progress |
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white">
+  <img src="https://img.shields.io/badge/UNIX-000000?style=for-the-badge&logo=linux&logoColor=white">
+</p>
+
+---
+
+## 🎯 Current goals
+
+- Strengthen my skills in **C programming**
+- Improve my understanding of **algorithms**
+- Write cleaner and more optimized code
+- Learn more about **systems programming** and **cybersecurity**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=remychvst&show_icons=true&theme=tokyonight">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=remychvst&layout=compact&theme=tokyonight">
+</p>
+
+---
+
+<p align="center">
+  <em>Building strong foundations, one project at a time.</em>
+</p>

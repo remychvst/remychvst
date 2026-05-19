@@ -20,12 +20,9 @@ I am learning by building real projects, debugging deeply, and improving step by
 
 ## 🚀 42 Projects
 
-| Project | Description | Status |
-|---|---|---|
-| **libft** | Custom C library | ✅ Done |
-| **ft_printf** | Reimplementation of printf | ✅ Done |
-| **get_next_line** | Read a file line by line | ✅ Done |
-| **push_swap** | Sorting algorithm with stacks | 🔄 In progress |
+Check out my dedicated repository for detailed explanations and progress:
+
+👉 **[42-projects](https://github.com/remychvst/42-projects)**
 
 ---
 

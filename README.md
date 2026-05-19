@@ -18,11 +18,29 @@ I am learning by building real projects, debugging deeply, and improving step by
 
 ---
 
-## 🚀 42 Projects
+## 🚀 Projects
 
-Check out my dedicated repository for detailed explanations and progress:
-
+### 🎓 42 Projects
 👉 **[42-projects](https://github.com/remychvst/42-projects)**
+
+Detailed presentation of my 42 school projects:
+- libft
+- ft_printf
+- get_next_line
+- push_swap
+- and more coming soon...
+
+---
+
+### 🧪 Side Projects
+👉 **[side-projects](https://github.com/remychvst/side-projects)**
+
+Personal experiments and projects outside the 42 curriculum:
+- games
+- cybersecurity tools
+- algorithms
+- terminal applications
+- experimental ideas
 
 ---
 

@@ -1,67 +1,73 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Rémy%20Chavastel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Rémy%20Chavastel&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<h1 align="center">⚡ 42 Paris Student • C / UNIX Developer ⚡</h1>
+<h1 align="center">42 Paris • C / UNIX Developer</h1>
 
 <p align="center">
-  Passionate about low-level programming, algorithms, systems programming and cybersecurity.
+  Low-level programming • UNIX • Algorithms • Cybersecurity
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=remychvst&label=Profile%20views&color=0e75b6&style=flat" />
+  <a href="https://github.com/remychvst/42-projects">
+    <img src="https://img.shields.io/badge/42_Projects-0A0A0A?style=for-the-badge&logo=42&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/remychvst/side-projects">
+    <img src="https://img.shields.io/badge/Side_Projects-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-```c
-while (alive)
-{
-    learn();
-    code();
-    debug();
-    improve();
-}
+```bash
+> Student at 42 Paris
+> Learning by building
+> Interested in low-level systems & cybersecurity
+> Currently working on algorithms and UNIX projects
 ```
-
-🎓 Student at **42 Paris**  
-💻 Focused on:
-- C programming
-- Algorithms
-- UNIX systems
-- Low-level development
-- Cybersecurity
-
-🚀 Learning by building real-world projects and solving complex problems step by step.
 
 ---
 
-## 🚀 Projects Hub
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🎓 42 Projects
-👉 **[42-projects](https://github.com/remychvst/42-projects)**
 
-Projects completed during my 42 journey:
+Projects completed during my 42 journey.
+
 - libft
 - ft_printf
 - get_next_line
 - push_swap
 - minishell *(coming soon)*
-- cub3d *(future project)*
 
----
+🔗 [Open Repository](https://github.com/remychvst/42-projects)
+
+</td>
+
+<td width="50%">
 
 ### 🧪 Side Projects
-👉 **[side-projects](https://github.com/remychvst/side-projects)**
 
-Personal experiments and projects outside the 42 curriculum:
+Personal experiments and ideas outside 42.
+
 - games
+- terminal apps
 - cybersecurity tools
-- terminal applications
 - algorithm experiments
-- low-level utilities
+- utilities
+
+🔗 [Open Repository](https://github.com/remychvst/side-projects)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -78,7 +84,7 @@ Personal experiments and projects outside the 42 curriculum:
 - Write cleaner and more optimized C code
 - Improve algorithmic thinking
 - Deepen UNIX & systems knowledge
-- Explore cybersecurity and low-level concepts
+- Explore cybersecurity concepts
 - Build increasingly complex projects
 
 ---
@@ -86,27 +92,13 @@ Personal experiments and projects outside the 42 curriculum:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=remychvst&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=remychvst&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=remychvst&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=remychvst&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## ⚡ Fun Fact
-
-```bash
-$ sudo make me_a_better_developer
-[sudo] password:
-Learning...
-Still learning...
-Always learning...
-```
-
----
-
 <p align="center">
-  <em>"Building strong foundations, one project at a time."</em>
+  <i>Building strong foundations, one project at a time.</i>
 </p>

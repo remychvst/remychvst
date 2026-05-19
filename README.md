@@ -52,15 +52,9 @@ I am learning by building real projects, debugging deeply, and improving step by
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rchvst&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=remychvst&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rchvst&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-<p align="center">
-  <em>Building strong foundations, one project at a time.</em>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=remychvst&layout=compact&theme=tokyonight"/>
 </p>

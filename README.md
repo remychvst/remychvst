@@ -106,5 +106,5 @@ Low-level programming • UNIX • Algorithms • Cybersecurity
 ---
 
 <p align="center">
-  <em>build • debug •• repeat</em>
+  <em>build • debug • sleep • repeat</em>
 </p>
